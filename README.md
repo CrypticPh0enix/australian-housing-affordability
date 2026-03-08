@@ -58,7 +58,7 @@ Demand-side interventions (First Home Owner Grant, negative gearing) inflate pri
 | [**PropTrack**](https://www.proptrack.com.au/research) | Median housing prices | 2022-2025 (quarterly) |
 | [**ABS AWE**](https://www.abs.gov.au/statistics/labour/earnings-and-working-conditions/average-weekly-earnings-australia) | Average Weekly Earnings by state | 2015-2025 | 
 | [**RBA**](https://www.rba.gov.au/statistics/cash-rate/) | Cash rate (monetary policy) | 2015-2025 |
-| [**ABS WPI**]((https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/wage-price-index-australia)) | Wage Price Index | 2015-2025 |
+| [**ABS WPI**](https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/wage-price-index-australia) | Wage Price Index | 2015-2025 |
 
 ### **Data Engineering**
 - **Hybrid dataset construction:** Bridged ABS (2015-2021) and PropTrack (2022-2025) using 2022 Q1 anchor point
@@ -248,5 +248,6 @@ Data Analyst | Bachelor of Data Science (Advanced)
 - **Reserve Bank of Australia (RBA)** - Cash rate data
 - **PropTrack (REA Group)** - Median price data (manually extracted from quarterly reports)
 - **Demographia International Housing Affordability** - PIR benchmarks
+
 
 ---
